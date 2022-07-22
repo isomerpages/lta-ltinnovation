@@ -26,7 +26,7 @@ sections:
       title: Call for Land Transport Innovation Solutions (Round 1)
       subtitle: submissions are open
       button: view problem statements
-      url: /problem-statements/
+      url: /problem-statements-round-one/
   - infopic:
       title: Showcase your solutions
       subtitle: Bridging capabilities
