@@ -15,7 +15,7 @@ links:
       - title: Request for Dataset
         url: /data-request
   - title: Submissions
-    url: /permalink
+    url: /submission-form
     sublinks:
       - title: Submission Form
         url: /submission-form
