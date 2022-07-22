@@ -12,8 +12,8 @@ sections:
       button: Learn more
       url: /application-guide/
       key_highlights:
-        - title: Problem statements
-          description: Round 1
+        - title: Round 1 Problem statements
+          description: ""
           url: /problem-statements/
         - title: Data Request
           description: Submit Your Request
