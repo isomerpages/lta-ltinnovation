@@ -12,7 +12,7 @@ links:
     sublinks:
       - title: Available Data
         url: /datasets
-      - title: Data Request Form
+      - title: Request for Dataset
         url: /data-request
   - title: Submissions
     url: /permalink
