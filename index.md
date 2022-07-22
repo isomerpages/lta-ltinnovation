@@ -39,12 +39,13 @@ sections:
       button: View data page
       url: /data/
       alt: Image alt text
-  - infopic:
+      description: Find out more about what are the available data to help in your
+        solution formulation and development process.
+  - infobar:
       title: Contact Us
-      subtitle: Application advisory
+      subtitle: Other advisory
       description: Need to know more about the application and administrative
         procedures? Get in touch.
       button: Contact form
-      url: /contact-form/
-      alt: Image alt text
+      url: /contact/
 ---
