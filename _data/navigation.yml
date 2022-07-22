@@ -11,7 +11,7 @@ links:
     url: /datasets
     sublinks:
       - title: Available Data
-        url: /available-data
+        url: /datasets
       - title: Data Request Form
         url: /data-request-form
   - title: Submissions
