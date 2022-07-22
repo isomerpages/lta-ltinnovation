@@ -8,7 +8,7 @@ links:
       - title: Past Problem Statements
         url: /past-problem-statements/
   - title: Data
-    url: /permalink
+    url: /datasets
     sublinks:
       - title: Available Data
         url: /available-data
