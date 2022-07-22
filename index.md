@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Call for Solutions (Round 1) now open!
+notification: ""
 sections:
   - hero:
       title: Land Transport Innovation Portal
@@ -21,6 +21,7 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
+      subtitle: Round 1 Call for Solutions now open!
   - infobar:
       title: Call for Land Transport Innovation Solutions (Round 1)
       subtitle: submissions are open
