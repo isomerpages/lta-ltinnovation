@@ -15,9 +15,9 @@ sections:
         - title: Round 1 Problem statements
           description: ""
           url: /problem-statements/
-        - title: Data Request
-          description: Submit Your Request
-          url: https://gmail.com
+        - title: Request for Data
+          description: ""
+          url: /data-request
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
