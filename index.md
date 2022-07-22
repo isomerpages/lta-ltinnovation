@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Land Transport Innovation Portal
       background: /images/hero-banner.png
-      button: Submissions open
+      button: Learn more
       url: /problem-statements/
       key_highlights:
         - title: Problem statements & Challenges
