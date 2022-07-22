@@ -24,10 +24,27 @@ sections:
   - infobar:
       title: Call for Land Transport Innovation Solutions
       subtitle: submissions are open
-      button: Submit now
+      button: view problem statements
       url: /faq/
   - infopic:
-      title: Bridging your solutions
-      subtitle: Understanding the needs
+      title: Showcase your solutions
+      subtitle: Understand our needs
+      alt: Image alt text
+      image: /images/placeholder pic 1.png
+      button: Submit now
+      url: /submissions/
+  - infopic:
+      title: Data Support
+      subtitle: Understand your needs
+      button: View data page
+      url: /data/
+      alt: Image alt text
+  - infopic:
+      title: Contact Us
+      subtitle: Application advisory
+      description: Need to know more about the application and administrative
+        procedures? Get in touch.
+      button: Contact form
+      url: /contact-form/
       alt: Image alt text
 ---
