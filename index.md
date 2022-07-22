@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Round 1 Problem statements
           description: ""
-          url: /problem-statements/
+          url: /problem-statements-round-one
         - title: Request for Data
           description: ""
           url: /data-request
