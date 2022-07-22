@@ -41,6 +41,7 @@ sections:
       alt: Image alt text
       description: Find out more about what are the available data to help in your
         solution formulation and development process.
+      image: /images/data.png
   - infobar:
       title: Contact Us
       subtitle: Other advisory
