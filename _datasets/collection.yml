@@ -1,4 +1,5 @@
 collections:
   datasets:
     output: true
-    order: []
+    order:
+      - List of Available Datasets.md
