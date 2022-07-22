@@ -29,14 +29,13 @@ sections:
       url: /problem-statements/
   - infopic:
       title: Showcase your solutions
-      subtitle: Understand our needs
+      subtitle: Bridging capabilities
       alt: Image alt text
       image: /images/placeholder pic 1.png
       button: Submit now
       url: /submissions/
   - infopic:
       title: Data Support
-      subtitle: Understand your needs
       button: View data page
       url: /data/
       alt: Image alt text
