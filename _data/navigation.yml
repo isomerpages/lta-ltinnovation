@@ -4,7 +4,7 @@ links:
     url: /problem-statements-round-one
     sublinks:
       - title: Ongoing Problem Statements
-        url: /problem-statements/
+        url: /problem-statements-round-one
       - title: Past Problem Statements
         url: /past-problem-statements/
   - title: Data
