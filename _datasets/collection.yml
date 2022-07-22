@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - List of Available Datasets.md
-      - Data Request.md
+      - Request for Dataset.md
