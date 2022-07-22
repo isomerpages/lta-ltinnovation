@@ -2,4 +2,4 @@ collections:
   submissions:
     output: true
     order:
-      - Submissions Form.md
+      - Submission Form.md
