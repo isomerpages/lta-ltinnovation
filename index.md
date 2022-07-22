@@ -22,9 +22,12 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Call for Land Transport Innovation Solutions
+      subtitle: submissions are open
+      button: Submit now
       url: /faq/
+  - infopic:
+      title: Bridging your solutions
+      subtitle: Understanding the needs
+      alt: Image alt text
 ---
