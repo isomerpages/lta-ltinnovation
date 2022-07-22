@@ -22,10 +22,10 @@ sections:
           description: ""
           url: /faq/
   - infobar:
-      title: Call for Land Transport Innovation Solutions 2022
+      title: Call for Land Transport Innovation Solutions (Round 1)
       subtitle: submissions are open
       button: view problem statements
-      url: /faq/
+      url: /problem-statements/
   - infopic:
       title: Showcase your solutions
       subtitle: Understand our needs
