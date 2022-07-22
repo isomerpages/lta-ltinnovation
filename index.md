@@ -13,7 +13,7 @@ sections:
       url: /application-guide/
       key_highlights:
         - title: Problem statements
-          description: ""
+          description: Round 1
           url: /problem-statements/
         - title: Data Request
           description: Submit Your Request
