@@ -10,11 +10,11 @@ sections:
       title: Land Transport Innovation Portal
       background: /images/hero-banner.png
       button: Learn more
-      url: /problem-statements/
+      url: /application-guide/
       key_highlights:
-        - title: Problem statements & Challenges
+        - title: Problem statements
           description: ""
-          url: https://google.com
+          url: /problem-statements/
         - title: Data Request
           description: Submit Your Request
           url: https://gmail.com
