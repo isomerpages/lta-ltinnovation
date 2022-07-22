@@ -20,7 +20,7 @@ sections:
           url: https://gmail.com
         - title: Frequently Asked Questions
           description: ""
-          url: /privacy/
+          url: /faq/
   - infobar:
       title: Call for Land Transport Innovation Solutions 2022
       subtitle: submissions are open
