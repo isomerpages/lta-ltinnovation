@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Problem statements
-    url: /permalink
+    url: /problem-statements-1
     sublinks:
       - title: Ongoing Problem Statements
         url: /problem-statements/
