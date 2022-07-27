@@ -22,11 +22,6 @@ sections:
           description: ""
           url: /faq/
       subtitle: Round 1 Call for Solutions now open!
-  - infobar:
-      title: Call for Land Transport Innovation Solutions (Round 1)
-      subtitle: submissions are open
-      button: view problem statements
-      url: /problem-statements-round-one/
   - infopic:
       title: Showcase your solutions
       subtitle: Bridging capabilities
@@ -56,4 +51,13 @@ sections:
       url: /problem-statements-round-one
       image: /images/solution placeholder.png
       alt: placeholder
+  - infopic:
+      title: Data
+      subtitle: Support
+      description: Find out more about what are the available data to help in your
+        solution formulation and development process.
+      button: View data page
+      url: /data/
+      image: /images/data.png
+      alt: Image alt text
 ---
