@@ -2,5 +2,5 @@ collections:
   ltip-overview:
     output: true
     order:
-      - Example Title.md
       - What is Land Transport Innovation Portal?.md
+      - Example Title.md
