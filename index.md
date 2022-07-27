@@ -17,7 +17,7 @@ sections:
           url: /faq/
         - title: Submit your solutions
           description: ""
-          url: /submissions
+          url: /submission-form
       subtitle: Round 1 Call for Solutions now open!
   - infopic:
       title: Call for Solutions (Round 1)
