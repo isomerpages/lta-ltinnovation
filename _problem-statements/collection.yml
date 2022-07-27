@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Problem Statements (Round 1).md
-      - Improvement in Quality of Inspections of Silencer Splitters.md
       - Past Problem Statements.md
