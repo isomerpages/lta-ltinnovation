@@ -49,4 +49,11 @@ sections:
         procedures? Get in touch.
       button: Contact form
       url: /contact/
+  - infopic:
+      title: Call for Solutions (Round 1)
+      subtitle: Submissions are open
+      button: View problem statments
+      url: /problem-statements-round-one
+      image: /images/solution placeholder.png
+      alt: placeholder
 ---
