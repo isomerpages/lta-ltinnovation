@@ -29,7 +29,7 @@ sections:
       description: Find out more about what are the available data to help in your
         solution formulation and development process.
       button: View data page
-      url: /data/
+      url: /datasets
       image: /images/data.png
       alt: Image alt text
   - infobar:
