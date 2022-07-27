@@ -12,9 +12,6 @@ sections:
       button: Find out more
       url: /ltip-overview/what-is-ltip/
       key_highlights:
-        - title: Problem statements
-          description: ""
-          url: /problem-statements-round-one
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
