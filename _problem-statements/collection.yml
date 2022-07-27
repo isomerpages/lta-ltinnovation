@@ -2,5 +2,5 @@ collections:
   problem-statements:
     output: true
     order:
-      - Problem Statements (Round 1).md
+      - Round 1.md
       - Past Problem Statements.md
