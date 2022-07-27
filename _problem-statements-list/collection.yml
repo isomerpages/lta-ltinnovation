@@ -1,5 +1,5 @@
 collections:
-  problem-statements:
+  problem-statements-list:
     output: true
     order:
       - Round 1.md
