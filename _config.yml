@@ -2,13 +2,13 @@ title: Land Transport Innovation Portal
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6119e2"
-  secondary-color: "#4b669a"
+  primary-color: "#94abf4"
+  secondary-color: "#b8e986"
   media-colors:
     - title: media-color-one
-      color: "#008bff"
+      color: "#9b9b9b"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#50e3c2"
     - title: media-color-three
       color: "#f85d3c"
     - title: media-color-four
