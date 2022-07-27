@@ -2,5 +2,6 @@ collections:
   ltip-overview:
     output: true
     order:
+      - Eligibility & Funding.md
       - What is Land Transport Innovation Portal?.md
       - Call for Land Transport Innovation Solutions.md
