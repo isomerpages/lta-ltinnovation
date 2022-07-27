@@ -9,7 +9,7 @@ Land Transport Innovation Portal (LTIP) is a one-stop platform for LTA to share 
 
 This platform aims to:
 
-1. Bridge the understanding of the current needs of our land transport industry to the solution providers through sharing of LTA’s problem statements.
+Bridge the understanding of the current needs of our land transport industry to the solution providers through sharing of LTA’s problem statements.
 2. Provide a one-stop service to facilitate matching and evaluation of proposed solutions to the published problem statements.
 3. Provide support to interested solution providers through the provision of technology tools, sandbox environment, test-bedding and regulatory advice.
 4. Provide advisory on suitable funding sources and guidance on the application and administrative procedures.
