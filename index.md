@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Call for Solutions (Round 1)
       subtitle: Submissions are open
-      button: View problem statments
+      button: View problem statements
       url: /problem-statements-round-one
       image: /images/solution placeholder.png
       alt: placeholder
