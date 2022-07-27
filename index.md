@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Land Transport Innovation Portal
       background: /images/Background placeholder.png
-      button: Round 1 Call now open!
-      url: /application-guide/
+      button: Find out more
+      url: /overview/
       key_highlights:
         - title: Problem statements
           description: ""
@@ -18,13 +18,7 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
-  - infopic:
-      title: Showcase your solutions
-      subtitle: Bridging capabilities
-      alt: Image alt text
-      image: /images/placeholder pic 1.png
-      button: Submit now
-      url: /submissions/
+      subtitle: Round 1 Call for Solutions now open!
   - infopic:
       title: Call for Solutions (Round 1)
       subtitle: Submissions are open
@@ -40,17 +34,6 @@ sections:
       button: View data page
       url: /data/
       image: /images/data.png
-      alt: Image alt text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infobar:
       title: Contact Us
