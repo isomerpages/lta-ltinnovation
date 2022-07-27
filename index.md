@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Land Transport Innovation Portal
-      background: /images/hero-banner.png
+      background: /images/Background placeholder.png
       button: Learn more
       url: /application-guide/
       key_highlights:
@@ -50,4 +50,3 @@ sections:
       button: Contact form
       url: /contact/
 ---
-
