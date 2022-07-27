@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Land Transport Innovation Portal
       background: /images/Background placeholder.png
-      button: Round 1 Call for Solutions now open!
+      button: Round 1 Call now open!
       url: /application-guide/
       key_highlights:
         - title: Problem statements
