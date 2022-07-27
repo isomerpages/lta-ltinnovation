@@ -15,9 +15,6 @@ sections:
         - title: Problem statements
           description: ""
           url: /problem-statements-round-one
-        - title: Request for Data
-          description: ""
-          url: /data-request
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
