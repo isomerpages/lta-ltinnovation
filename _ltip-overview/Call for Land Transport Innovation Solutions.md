@@ -8,7 +8,7 @@ We are looking for innovative solutions that can help us achieve the key goals o
 # Focused Solutions
 These solutions are aligned towards listed problem statements in specific focus areas or themes related to land transport.
 
-To view and for more details on the Land Transport Innovation Challenges, visit our[problem statements page](/problem-statements-round-one/).
+To view and for more details on the Land Transport Innovation Challenges, visit our [problem statements page](/problem-statements-round-one/).
 
 # General Solutions
 These solutions are aligned with the general theme of providing an enhanced land transport experience for commuters and road users, such as, but not limited to, in the areas of improving efficiency, service delivery, sustainability and reliability.
