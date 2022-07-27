@@ -10,7 +10,7 @@ sections:
       title: Land Transport Innovation Portal
       background: /images/Background placeholder.png
       button: Find out more
-      url: /overview/
+      url: /ltip-overview/
       key_highlights:
         - title: Problem statements
           description: ""
