@@ -2,6 +2,6 @@ collections:
   ltip-overview:
     output: true
     order:
-      - Eligibility & Funding.md
       - What is LTIP?.md
       - Call for Land Transport Innovation Solutions.md
+      - Eligibility & Funding.md
