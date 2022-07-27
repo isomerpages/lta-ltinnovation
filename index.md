@@ -15,6 +15,9 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq/
+        - title: Submit your solutions
+          description: ""
+          url: /submissions
       subtitle: Round 1 Call for Solutions now open!
   - infopic:
       title: Call for Solutions (Round 1)
